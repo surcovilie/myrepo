@@ -1,6 +1,6 @@
 # TehWebCE
 
-## Cucer Eugen CR-193
+## Surcov Ilie RM - 192
 
 ### Lab1
 At this point some of us have to learn how to work with git
